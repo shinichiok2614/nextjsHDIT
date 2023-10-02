@@ -45,4 +45,6 @@ nếu không chạy được css thì xoá .next
 dùng react bootstrap thì phải thêm 'use client'
 'use client': convert to Client component
 
-1:25
+yarn add swr
+useSWR()
+
